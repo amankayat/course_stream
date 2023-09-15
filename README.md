@@ -184,7 +184,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 
 ## Connect with me! 🌐
-Known on internet as **Yogesh Nile**
+Known on internet as **Aman Kayat**
 
 [![][I_LinkedIn]][LinkedIn]  [![][I_Github]][Github] [![][I_Twitter]][Twitter] [![][I_Telegram]][Telegram] [![][I_Instagram]][Instagram]  [![][I_Instagram Personal]][Instagram Personal]   [![][I_discord]][discord]
 
@@ -193,14 +193,14 @@ Known on internet as **Yogesh Nile**
 [![][I_Email]][E-mail]
 
 
-[LinkedIn]: https://bit.ly/2Ky3ho6
-[Github]: https://bit.ly/2yoggit
-[Twitter]: https://bit.ly/3dbLJLC
-[Telegram]: https://t.me/yogeshnile
-[Instagram]: https://bit.ly/3b9Qeo4
-[Instagram Personal]: https://bit.ly/32SXHV0
-[E-mail]: mailto:yogeshnile.work4u@gmail.com
-[discord]: https://discord.gg/R2ug3gR
+[LinkedIn]: https://www.linkedin.com/in/aman-kayat-554195186/
+[Github]: https://github.com/amankayat
+[Twitter]: https://twitter.com/fix_slayr?t=iOsmGYINPReQUdJ1D_5rcg&s=09
+[Telegram]: https://t.me/Amankayat
+[Instagram]: https://www.instagram.com/aman.k789/
+[Instagram Personal]: https://www.instagram.com/aman.k789/
+[E-mail]: mailto:amankayat789@gmail.com
+[discord]: 
 
 [I_discord]: https://img.icons8.com/bubbles/100/000000/discord-logo.png
 [I_LinkedIn]: https://img.icons8.com/bubbles/100/000000/linkedin.png
