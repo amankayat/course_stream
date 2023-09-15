@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}
+success
+{% endblock %}
+
+{% block body %}
+
+
+{% if valid %}
+<div class="container text-center"></div>
+<h2>Thank you for your email confirmation. Now you can login your account.</h2>
+
+<div class="text-center">
+ <a href="{% url 'home' %}" class="btn btn-primary">Login here</a>
+</div>
+</div>
+{% else %}
+<div class="container text-center">
+    <h2>Your Account is already verified! Please Login</h2>
+</div>
+
+{% endif %}
+{% endblock %}
