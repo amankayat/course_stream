@@ -18,7 +18,7 @@ COURSE_TYPE = [
 class Course(models.Model):
     title = models.CharField(max_length=100)
     description = models.TextField()
-    thumbnail_url = models.CharField(max_length=100)
+    thumbnail_url = models.CharField(max_length=200)
     course_type = models.CharField(max_length=4,choices=COURSE_TYPE, default="FREE")
     course_length = models.CharField(max_length=20)
     course_slug = models.SlugField(default="-")
@@ -48,7 +48,7 @@ LECTURE_TYPE = [
 
 class Lecture(models.Model):
     title = models.CharField(max_length=100)
-    video_url = models.CharField(max_length=100)
+    video_url = models.CharField(max_length=200)
     section = models.ForeignKey(Section, on_delete=models.CASCADE)
     course = models.ForeignKey(Course, on_delete=models.CASCADE, blank=True)
     lecture_slug = models.SlugField(default="-")

@@ -46,6 +46,8 @@ def lecture_detail(request, slug, lecture_slug):
         video = Lecture.objects.filter(lecture_slug=lecture_slug).first()
         Lecture_Comment = LectureComment.objects.filter(lecture=video)
 
+        print("aman")
+        print(video.video_url)
         context ={
             "course":course,
             "section":section,
